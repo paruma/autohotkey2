@@ -107,6 +107,10 @@ sc1F1 & sc027::
     send, {Enter}
 return
 
+sc1F1 & Space::
+    send, {Enter}
+return
+
 ; Insertを削除
 Insert::
 return
